@@ -1,6 +1,8 @@
 # AIPM-Capstone-Prep
 Demo Day Prep Frameworks – Question Banks, Templates, and Scorecards  This repo contains all the resources I used to prepare for my AI Product Management demo day, where my capstone project was selected as a runner‑up from the cohort.
 
+<img width="2752" height="1536" alt="unnamed (8)" src="https://github.com/user-attachments/assets/806d0743-8c5d-4f4c-ad13-2193d35f2b23" />
+
 ## What’s inside:
 
 Full judge question bank from past cohorts, grouped into 14 themes (problem, ICP, why AI, wedge, evaluation, GTM, pricing, etc.)
